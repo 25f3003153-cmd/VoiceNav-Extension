@@ -1,0 +1,11 @@
+git clone https://github.com/tsarthak10-web/VoiceNav-Extension.git
+
+cd .\VoiceNav-Extension\
+
+git status
+
+git add .
+
+git commit -m"New Files Added"
+
+git push origin main
